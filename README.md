@@ -151,7 +151,7 @@
 - [PDFUnit](http://www.pdfunit.com/) - _Paid_
 
 ## Ten e2e testing tools for Node.js, JavaScript and TypeScript
-- [agent-qa](https://github.com/vostride/agent-qa) - _Open-source self-improving QA agent for natural-language web and mobile tests_
+- [agent-qa](https://github.com/vostride/agent-qa) - _Source-available self-improving QA agent for natural-language web and mobile tests_
 - [Cypress.io](https://www.cypress.io/)
 - [Webdriver.io](https://webdriver.io/)
 - [Nightwatch.js](https://nightwatchjs.org/)
